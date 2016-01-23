@@ -17,6 +17,9 @@ Route::get('/', function () {
 
 Route::resource('welcome','WelcomeController');
 
+Route::resource('welcome','WelcomeController');
+
+
 /*
 |--------------------------------------------------------------------------
 | Application Routes
